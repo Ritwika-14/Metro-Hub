@@ -35,7 +35,7 @@ The application provides a user-friendly interface for users to input source and
 * Dynamic Metro Information:
 The system dynamically handles and displays information about each metro station, including its name, metro corridor, and the lines it connects.
 
-Route Visualization:
+* Route Visualization:
 The determined metro route between the source and destination stations is visualized and presented to the user.
 Output Display:
 
