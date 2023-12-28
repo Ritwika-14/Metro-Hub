@@ -12,7 +12,7 @@ Main.java cointains all the major code and Heap.java contains heap implementatio
 The implementation leverages the Graph data structure to model metro stations, where each station is represented as a node.
 Nodes contain essential information such as the station's name, metro corridor, and the lines it connects.
 
-Edges and Distances:
+* Edges and Distances:
 Edges in the graph represent the connections between two metro stations.
 The distance between two stations is utilized as the cost of each edge in the graph.
 
