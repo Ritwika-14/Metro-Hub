@@ -37,7 +37,7 @@ The system dynamically handles and displays information about each metro station
 
 * Route Visualization:
 The determined metro route between the source and destination stations is visualized and presented to the user.
-Output Display:
 
+* Output Display:
 The application displays the metro route information and the total fare to the user after the algorithmic calculations.
 By implementing these features, the Metro Hub App provides a robust solution for navigating and calculating fares within a metro system.
