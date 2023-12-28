@@ -22,10 +22,10 @@ Various algorithms like Dijkstra, breadth-first search, depth-first search, etc.
 * Path Calculation:
 The chosen algorithms are used to determine the shortest path between the source and destination stations in the metro system.
 
-Fare Calculation:
+* Fare Calculation:
 The total fare for the metro route is calculated based on the total distance between the source and destination stations.
 
-Code Organization:
+* Code Organization:
 The core implementation is housed in the Main.java file, where the major logic for graph operations and path finding resides.
 The heap data structure, crucial for certain algorithms, is implemented in the Heap.java file.
 
