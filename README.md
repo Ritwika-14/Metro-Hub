@@ -8,7 +8,7 @@ from the user and display the fare and shortest metro route to reach the destina
 
 Main.java cointains all the major code and Heap.java contains heap implementation.
 
-*Graph and Heap Data Structures:
+* Graph and Heap Data Structures:
 The implementation leverages the Graph data structure to model metro stations, where each station is represented as a node.
 Nodes contain essential information such as the station's name, metro corridor, and the lines it connects.
 
