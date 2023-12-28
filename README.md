@@ -16,8 +16,9 @@ Nodes contain essential information such as the station's name, metro corridor, 
 Edges in the graph represent the connections between two metro stations.
 The distance between two stations is utilized as the cost of each edge in the graph.
 
-Algorithmic Approach:
+* Algorithmic Approach:
 Various algorithms like Dijkstra, breadth-first search, depth-first search, etc., are employed to find the shortest path between a source station and a destination station.
+
 Path Calculation:
 The chosen algorithms are used to determine the shortest path between the source and destination stations in the metro system.
 
