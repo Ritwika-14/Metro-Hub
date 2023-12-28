@@ -29,7 +29,7 @@ The total fare for the metro route is calculated based on the total distance bet
 The core implementation is housed in the Main.java file, where the major logic for graph operations and path finding resides.
 The heap data structure, crucial for certain algorithms, is implemented in the Heap.java file.
 
-User Interface:
+* User Interface:
 The application provides a user-friendly interface for users to input source and destination stations and receive information about the metro route and total fare.
 
 Dynamic Metro Information:
